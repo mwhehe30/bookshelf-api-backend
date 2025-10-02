@@ -52,7 +52,7 @@ API ini dibangun menggunakan **Node.js** dan framework **Hapi.js**, dengan arsit
 
 4. Server akan berjalan di:
    ```
-   http://localhost:5000
+   http://localhost:9000
    ```
 
 ---
