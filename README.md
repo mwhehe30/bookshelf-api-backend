@@ -100,7 +100,4 @@ Request Body:
 - Data masih disimpan secara **in-memory** (array JavaScript), sehingga akan hilang setelah server dimatikan.  
 - Untuk tahap berikutnya bisa diintegrasikan dengan database (PostgreSQL / MongoDB / MySQL).
 
----
 
-## ✨ Lisensi
-MIT License © 2025
